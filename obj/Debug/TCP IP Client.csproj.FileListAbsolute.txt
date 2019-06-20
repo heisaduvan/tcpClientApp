@@ -1,0 +1,10 @@
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\bin\Debug\TCP IP Client.exe.config
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\bin\Debug\TCP IP Client.exe
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\bin\Debug\TCP IP Client.pdb
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP IP Client.csprojAssemblyReference.cache
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP_IP_Client.Form1.resources
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP_IP_Client.Properties.Resources.resources
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP IP Client.csproj.GenerateResource.cache
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP IP Client.csproj.CoreCompileInputs.cache
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP IP Client.exe
+C:\Users\Flokontrol\source\repos\TCP IP Client\TCP IP Client\obj\Debug\TCP IP Client.pdb
